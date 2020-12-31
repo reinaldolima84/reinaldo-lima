@@ -5,8 +5,6 @@
   Gerente de TI | +15 Experiência | Gerenciamento de Projetos | Desenvolvimento Sistemas WEB, Mobile e Desktop | Cloud AWS
 </p>
 
-<br/>
-
 ### Minhas experiências
 
 - Profissional com mais de 15 anos de experiência na área de Tecnologia da Informação, especialista em gerenciamento de projetos e em toda a área de suporte e sistemas. Forte atuação com tecnologias de desenvolvimento de sistemas web, mobile e desktop, como: PHP, Laravel, Angular, JavaScript, CSS, Slim Framework, Ionic, Asp.Net, VB.Net, C#, VB6, SQL Server, MySQL e Docker.
@@ -25,7 +23,7 @@
   <code><img alt="My e-mail" width="32" src="https://www.baitzsolutions.com.br/assets/images/icons/mail.png" /></code>
 </a>
 
-<br/><br/>
+<br/>
 
 ## My Development Stacks
 
@@ -78,7 +76,6 @@
 <code><img height="32" src="https://emojis.slackmojis.com/emojis/images/1467305681/623/asana.png?1467305681" alt="Asana"/></code>
 <code><img height="32" src="https://media.licdn.com/dms/image/C4E0BAQFGq7Ao1Oc06A/company-logo_200_200/0?e=2159024400&v=beta&t=RqpsFGlB5CDaB2QLbG4yxcd6TFo14t6wzXnPHxsOy8M" alt="Pipefy"/></code>
 
-
 <br/>
 
 ## Coding Activity
@@ -88,8 +85,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=reinaldolima84&show_icons=true&theme=tokyonight" alt="reinaldolima84's github stats" />
 </p>
-
-<br/>
 
 <p align="right">
   <a href="https://badges.pufler.dev">
